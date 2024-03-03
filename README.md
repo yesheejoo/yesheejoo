@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD94D&height=222&section=header&text=JHHHJ%20co%20kr&fontSize=77)
+### 🐮 JO HEE JOO 💛
+
 
 <!--
 **yesheejoo/yesheejoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
