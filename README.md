@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyesheejoo&count_bg=%23FADD79&title_bg=%23000000&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### SNS
-![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)<a href="https://www.instagram.com/jo_heejoo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/jo_heejoo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 ![Static Badge](https://img.shields.io/badge/Iinkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)
 
