@@ -9,8 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)
 
 ### Study
-![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white)
-
+<a href="https://oreumi.notion.site/764e2ad0a2a34503a41b7f48be9cbb6f"><img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white"/></a>
 
 ### Tool
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white)
