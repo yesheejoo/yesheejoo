@@ -10,7 +10,7 @@
 
 ### Study
 <a href="https://oreumi.notion.site/764e2ad0a2a34503a41b7f48be9cbb6f"><img src="https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white"/></a>
-
+http://localhost:8888/tree
 ### Tool
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white)
